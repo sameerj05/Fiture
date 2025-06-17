@@ -1,4 +1,4 @@
-# Fiture - Your Personal Fitness Companion
+# Fiture - The Future of Fitness
 
 A modern full-stack application that helps you track your workouts and get AI-powered fitness coaching.
 
